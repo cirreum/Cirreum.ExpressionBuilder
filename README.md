@@ -191,10 +191,3 @@ The library provides detailed exceptions for common issues:
 ## Acknowledgments
 
 This library builds upon the excellent foundation provided by [David Belmont's ExpressionBuilder](https://github.com/dbelmont/ExpressionBuilder). We've extended and modernized the codebase while maintaining the core philosophy of simple, powerful expression building.
-
-## Changelog
-
-### v1.0
-
-- Current stable version
-- Versioning follows the Cirreum Framework SemVer version
